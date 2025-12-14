@@ -35,6 +35,9 @@ The objective of this project is to create an interactive **Road Accident Dashbo
 
 ![Screenshot (495)](https://github.com/indradityaa/Road-Accident-Analytics-Dashboard/blob/main/Picture%20Dashboard.png)
 
+## Interactive Dashboard
+* <a href="https://docs.google.com/spreadsheets/d/19YALfhPkqBI-C7Od7ahCfTroait_RoEm/edit?usp=sharing&ouid=100467937552408917995&rtpof=true&sd=true">Dashboard</a>
+
 ## Project Insights
 
 * Clear year-over-year comparison highlights trends in accident frequency and casualty counts.
